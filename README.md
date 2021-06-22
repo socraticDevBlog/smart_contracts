@@ -1,0 +1,2 @@
+# smart_contracts
+manning_blockchain_book
